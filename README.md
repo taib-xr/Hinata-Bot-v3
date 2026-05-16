@@ -1,12 +1,10 @@
 <p align="center">
   <img src="https://i.imgur.com/Mmo26FF.jpeg" alt="Hinata Bot Banner" width="100%">
 </p>
-
 <h1 align="center">
   <img src="https://i.imgur.com/ZfuZrPc.jpeg" width="28px" alt="icon">
-  Hinata Bot - Messenger Chat Messenger
+  Hinata Bot — The Ultimate Messenger Chat Bot
 </h1>
-
 <p align="center">
   <a href="https://nodejs.org/dist/v20.20.0">
     <img src="https://img.shields.io/badge/Nodejs%20Support-20.x-brightgreen.svg?style=flat-square" alt="Nodejs Support">
@@ -16,23 +14,22 @@
   <img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?style=flat-square&page_id=mahmudx7/Hinata-Bot-V3">
   <img alt="License" src="https://img.shields.io/badge/license-MIT-green?style=flat-square&color=brightgreen">
 </p>
-
 ---
-
-## • **Features**
-* **Multi-Language Support:** Full support for
-* 🇧🇩 Bangla,
-* 🇺🇸 English,
-* 🇻🇳 Vietnamese.
-* **High Performance:** Built on Node.js 20.x for stability.
-* **Auto-Reply:** Advanced SimSimi and AI integration.
-* **Easy Setup:** Mobile-friendly deployment process.
-
+## 🚀 Overview & Search Keywords
+Welcome to **Hinata Bot V3**, also popularly known in the community as **Baby Bot** or **Mahmud Bot (MahMUD Bot)**. This is a highly optimized, feature-rich **Messenger Bot** designed for automated chat management and interactive AI replies.
+If you are looking for a reliable **Messenger Chat Bot** setup, this **Mahmud Bot** variant provides the best stability and customization.
 ---
-
-## • **Language Selection**
-You can switch the bot's response language in the `config.json` file.
-
+## ✨ Features
+* **Multi-Language Support:** Full support for:
+  * 🇧🇩 Bangla (bn)
+  * 🇺🇸 English (en)
+  * 🇻🇳 Vietnamese (vi)
+* **High Performance:** Built on Node.js 20.x for 24/7 uptime and stability.
+* **Smart Auto-Reply:** Advanced SimSimi chatbot and AI model integration (Perfect for **Baby Bot** style conversation).
+* **Easy Mobile Setup:** Mobile-friendly deployment process for everyone.
+---
+## 🌐 Language Selection
+You can switch your **Messenger bot's** response language easily in the `config.json` file.
 
 | Language | Code | Status |
 | :--- | :--- | :--- |
@@ -41,23 +38,17 @@ You can switch the bot's response language in the `config.json` file.
 | **Vietnamese** | `vi` | ✅ Supported |
 
 ---
-
-## • **Tutorial & Deployment**
-If you are a new user, please watch the step-by-step video guide below to set up your bot on a mobile phone.
-
-🎥 **Watch Tutorial:** [Click Here to Watch on YouTube](https://youtu.be/zJsemXLaRbY?si=f0PE6L4oCGzYBwPn)
-
-### **Basic Setupl Steps:**
-1.  **Extract AppState:** Use Kiwi Browser to get your Facebook `appstate.json` or cookies.
-2.  **Edit `account.txt`:** Paste your cookie data inside this file.
-3.  **Configure:** Update `config.json` with your Admin UID and Prefix.
-4.  **Run:** Execute `npm start` to bring Hinata online.
-
+## 🎥 Tutorial & Deployment
+If you are a new user trying to deploy **Hinata Bot** / **Baby Bot** on your mobile phone, watch this step-by-step video guide:
+🔹 **Watch Tutorial:** [Click Here to Watch on YouTube](https://youtu.be/zJsemXLaRbY?si=f0PE6L4oCGzYBwPn)
+### **Basic Setup Steps:**
+1. **Extract AppState:** Use Kiwi Browser to get your Facebook `appstate.json` or cookies.
+2. **Edit `account.txt`:** Paste your cookie data inside this file.
+3. **Configure:** Update `config.json` with your Admin UID and custom bot Prefix.
+4. **Run:** Execute `npm start` to bring your **MahMUD Bot** online.
 ---
-
-## 📩 **Contact & Support**
-If you find any issues or need custom features, feel free to reach out!
-
+## 📩 Contact & Support
+Got questions about **Hinata Bot** or need help setting up your **Messenger bot**? Reach out through the official channels:
 <div align="left">
   <a href="https://www.facebook.com/mahmudexe" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
@@ -69,18 +60,14 @@ If you find any issues or need custom features, feel free to reach out!
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 </div>
-
 ---
-
-## 👤 **Credits**
-**Developer:** **MahMUD**
-**Project Name:** Hinata-Bot-V3  
-
+## 👤 Credits & Developer
+* **Developer:** **ARIYAN MAHMUD** (**MahMUD**)
+* **Project Name:** Hinata-Bot-V3 (The Ultimate **Baby Bot** / **Messenger Bot** Solution)
 <p align="center">
-  <img src="https://i.imgur.com/UM3ekFf.jpeg" width="150px" style="border-radius: 50%;"/>
+  <img src="https://i.imgur.com/UM3ekFf.jpeg" width="150px" style="border-radius: 50%; border: 3px solid #brightgreen;"/>
   <br>
   <b>ARIYAN MAHMUD</b>
 </p>
-
 ---
 <p align="center">© 2024 Mahmud Official. All Rights Reserved.</p>
