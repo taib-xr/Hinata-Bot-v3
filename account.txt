@@ -1,1 +1,1 @@
-add ur c3c cookie here
+[![Node.js CI](https://github.com/mahmudx7/Hinata-Bot-v3/actions/workflows/run.yml/badge.svg)](https://github.com/mahmudx7/Hinata-Bot-v3/actions/workflows/run.yml)
